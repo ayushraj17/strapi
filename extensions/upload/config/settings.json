@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "ayushraj",
+    "api_key": "669411354282412",
+    "api_secret": "P7QUr1u49MtJKOUTY_t-rRKbhZo"
+  }
+}
