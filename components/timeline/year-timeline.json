@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_timeline_year_timelines",
+  "info": {
+    "name": "year_timeline",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "year": {
+      "type": "string"
+    },
+    "listOfTimeline": {
+      "type": "component",
+      "repeatable": true,
+      "component": "timeline.list-of-timeline",
+      "required": true
+    }
+  }
+}

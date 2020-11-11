@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_description_one_stacks",
+  "info": {
+    "name": "one_stack",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "component",
+      "repeatable": false,
+      "component": "description.title"
+    }
+  }
+}

@@ -6,9 +6,12 @@
   },
   "options": {},
   "attributes": {
-    "title": {
+    "list_of_desc": {
       "type": "string",
       "required": true
+    },
+    "date": {
+      "type": "string"
     }
   }
 }

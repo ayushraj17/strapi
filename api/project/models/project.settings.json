@@ -44,8 +44,7 @@
     "stack": {
       "type": "component",
       "repeatable": true,
-      "component": "description.stack-item",
-      "required": true
+      "component": "description.title"
     }
   }
 }
